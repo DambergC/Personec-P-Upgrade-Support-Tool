@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Configuration>
+  <CustomerBigram>BIGRAM</CustomerBigram>
+  <InstansUser>ViwInstall</InstansUser>
+  <InstansPassword>Visma2016!</InstansPassword>
+  <InstallPath>d:\Visma</InstallPath>
+</Configuration>
