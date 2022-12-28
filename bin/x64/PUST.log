@@ -121,3 +121,7 @@
 2022/12/24 12:30:21 INFO Logged on user: VIAMONSTRA\administrator
 2022/12/24 12:30:21 INFO VIAMONSTRA\administrator exists in the group and have right to start applikation
 2022/12/24 12:30:21 INFO Backupfolder exist
+2022/12/27 17:57:06 INFO Cannot create PUST.XML because it already exists.
+2022/12/27 17:57:06 INFO Logged on user: VIAMONSTRA\administrator
+2022/12/27 17:57:06 INFO VIAMONSTRA\administrator exists in the group and have right to start applikation
+2022/12/27 17:57:06 INFO Backupfolder exist
