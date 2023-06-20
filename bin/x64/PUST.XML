@@ -4,4 +4,6 @@
   <InstansUser>ViwInstall</InstansUser>
   <InstansPassword>Visma2016!</InstansPassword>
   <InstallPath>d:\Visma</InstallPath>
+  <Sqlserver>Sqlserver01</Sqlserver>
+  <BigramSEC>Visma2016!</BigramSEC>
 </Configuration>

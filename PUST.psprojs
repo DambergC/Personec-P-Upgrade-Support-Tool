@@ -1,15 +1,8 @@
 ﻿<ProjectState>
   <Version>1.0</Version>
   <FileID>a4a17e59-8337-47c1-b9c5-235f57ec8559</FileID>
-  <OpenFolders>
-    <Folder>DiscoverModule\7Zip4Powershell\2.2.0</Folder>
-    <Folder>DiscoverModule\7Zip4Powershell</Folder>
-    <Folder>DiscoverModule\dbatools\1.1.143</Folder>
-    <Folder>DiscoverModule\dbatools</Folder>
-  </OpenFolders>
+  <OpenFolders />
   <OpenFiles>
-    <File>About.psf</File>
-    <File>Globals.ps1</File>
-    <File>MainForm.psf</File>
+    <File>Create-Folder.psf</File>
   </OpenFiles>
 </ProjectState>

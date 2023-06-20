@@ -1174,11 +1174,16 @@ $buttonCreateFolder_Click={
 	Write-Log -Level INFO -Message "Creete folder $installpath\install\backup\$foldernameCreate "
 	New-Item -Path "$installpath\install\backup" -Name $foldernameCreate -ItemType Directory
 	
+
 	
 	
 	$ExistingBackupFolders = Get-ChildItem -Path "$InstallPath\Install\backup" | Select-Object Name
-	update-DataGridView -DataGridView $BackupFolder -Item $ExistingBackupFolders 
+	update-DataGridView -DataGridView $BackupFolder -Item $ExistingBackupFolders
+	
 }]]></Code>
-  <Mode>0</Mode>
-  <Assemblies />
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>Microsoft.Web.WebView2.Core, Version=1.0.1293.44, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|..\Powershell_script\UpdateStatus\bin\x64\UpdateStatus\Microsoft.Web.WebView2.Core.dll</Assembly>
+    <Assembly>Microsoft.Web.WebView2.WinForms, Version=1.0.1293.44, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|..\Powershell_script\UpdateStatus\bin\x64\UpdateStatus\Microsoft.Web.WebView2.WinForms.dll</Assembly>
+  </Assemblies>
 </File>
